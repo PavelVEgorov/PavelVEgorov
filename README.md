@@ -1,7 +1,7 @@
 
 
 <div id="header" align="center">
-  <img src="[https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif](https://giphy.com/clips/erichamlet-developers-ballmer-gtm6yZur9eRFoo1UvO)" width="100"/>
+  <img src="https://giphy.com/clips/erichamlet-developers-ballmer-gtm6yZur9eRFoo1UvO" width="100"/>
 </div>
 - 👋 Hi, I’m @PavelVEgorov
 - 👀 I’m interested in ...
