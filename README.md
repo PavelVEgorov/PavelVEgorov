@@ -19,11 +19,25 @@
   </h1>
 </div>
   
- <strong> :man_technologist: About Me:</strong>
+ <strong> :man_technologist: About Me:</strong> <br/>
+ I've been doing web development for almost 2 years!
+  <br/>
+   <br/>
+ I can:
+- develop functional components on React,
+- client logic of the application,
+- configure client-server interaction,
+- work with adaptive layout;
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
-- :seedling: Exploring Technical Content Writing.
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+I am constantly striving to develop technical and personal skills, learning new things,this is what attracts me to development.
+I know how to work in a team, communicate with colleagues and management to achieve results.
+I am looking for a job as a frontend developer in a company where I can apply my skills, in a team of experienced developers. <br/>
+It is important for me to:
+- work on an interesting and useful product for the user;
+- friendly atmosphere in the team;
+- support in activities;
+- ability to develop skills;
+
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-pavel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/pavel--egorov/)
 
 ---
